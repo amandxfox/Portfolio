@@ -214,7 +214,8 @@ Primary use:    pxdraft
 .text-theme {
   background: linear-gradient(to right, #12c2e9, #f64f59, #f64f59);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; }
+  -webkit-text-fill-color: transparent; 
+}
 
 .theme-bg-g {
   background: linear-gradient(to left, #12c2e9, #c471ed, #f64f59); }
@@ -339,6 +340,12 @@ a {
     .right-effects {
       width: 200px;
       height: 200px; } }
+
+@media (max-width: 469px) {
+  .text-theme {
+	height: 96px;
+  }
+}
 
 .left-effects {
   position: fixed;

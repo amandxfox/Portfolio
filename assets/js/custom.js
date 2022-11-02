@@ -207,7 +207,6 @@
                 strings: [
                   'Engineer',
                   'Developer',
-				  'Designer'
                 ],
                 breakLines: false
             }); 
