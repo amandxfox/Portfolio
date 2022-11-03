@@ -205,8 +205,8 @@
                 speed: 200,
                 loop:true,
                 strings: [
-                  'Engineer',
-                  'Developer',
+                  'Engineer.',
+                  'Developer.',
                 ],
                 breakLines: false
             }); 
