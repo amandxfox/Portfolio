@@ -1119,13 +1119,20 @@ main {
     position: absolute;
     top: 20px;
     left: 20px; }
+  .portfolio-box-01 .portfolio-info2 {
+      position: absolute;
+      top: 20px;
+      left: 20px; }  
     .white-theme .portfolio-box-01 .portfolio-info {
       color: #888; }
     .portfolio-box-01 .portfolio-info h5 {
       color: #fff; }
+    .portfolio-box-01 .portfolio-info2 h5 {
+        color: #000; }
   .portfolio-box-01:hover .portfolio-img img {
     -webkit-transform: scale(1.05);
             transform: scale(1.05); }
+            
 
 /* Blog Section
 -------------------------------*/

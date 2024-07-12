@@ -205,8 +205,9 @@
                 speed: 200,
                 loop:true,
                 strings: [
-                  'Engineer.',
-                  'Developer.',
+                  'Sales Professional.',
+                  'Software Engineer.',
+                  'Data Analyst.',
                 ],
                 breakLines: false
             }); 
